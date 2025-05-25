@@ -57,7 +57,7 @@ public static class Task2
             }
 
             Console.WriteLine($"Запущено процес: {appName}, PID: {pid}. Очікування завершення...");
-            Console.WriteLine("⚠️ Якщо це Notes або Freeform — закрий додаток повністю через Dock (Quit).");
+            Console.WriteLine("Якщо це Notes або Freeform — закрий додаток повністю через Dock (Quit).");
 
             while (IsProcessRunningByPid(pid))
             {

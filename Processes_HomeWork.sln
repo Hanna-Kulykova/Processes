@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Processes_HomeWork", "Proce
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorProcessApp", "CalculatorProcessApp\CalculatorProcessApp.csproj", "{6C5E6627-242B-4070-97D9-27FEFC286A17}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordSearchProcessApp", "WordSearchProcessApp\WordSearchProcessApp.csproj", "{F2B0635E-9D87-4193-ACA3-7957A101DC25}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{6C5E6627-242B-4070-97D9-27FEFC286A17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C5E6627-242B-4070-97D9-27FEFC286A17}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C5E6627-242B-4070-97D9-27FEFC286A17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2B0635E-9D87-4193-ACA3-7957A101DC25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2B0635E-9D87-4193-ACA3-7957A101DC25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2B0635E-9D87-4193-ACA3-7957A101DC25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2B0635E-9D87-4193-ACA3-7957A101DC25}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,15 @@
+/Users/annakulikova/Documents/System Programming/Processes_HomeWork/WordSearchProcessApp/bin/Debug/net9.0/WordSearchProcessApp
+/Users/annakulikova/Documents/System Programming/Processes_HomeWork/WordSearchProcessApp/bin/Debug/net9.0/WordSearchProcessApp.deps.json
+/Users/annakulikova/Documents/System Programming/Processes_HomeWork/WordSearchProcessApp/bin/Debug/net9.0/WordSearchProcessApp.runtimeconfig.json
+/Users/annakulikova/Documents/System Programming/Processes_HomeWork/WordSearchProcessApp/bin/Debug/net9.0/WordSearchProcessApp.dll
+/Users/annakulikova/Documents/System Programming/Processes_HomeWork/WordSearchProcessApp/bin/Debug/net9.0/WordSearchProcessApp.pdb
+/Users/annakulikova/Documents/System Programming/Processes_HomeWork/WordSearchProcessApp/obj/Debug/net9.0/WordSearchProcessApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annakulikova/Documents/System Programming/Processes_HomeWork/WordSearchProcessApp/obj/Debug/net9.0/WordSearchProcessApp.AssemblyInfoInputs.cache
+/Users/annakulikova/Documents/System Programming/Processes_HomeWork/WordSearchProcessApp/obj/Debug/net9.0/WordSearchProcessApp.AssemblyInfo.cs
+/Users/annakulikova/Documents/System Programming/Processes_HomeWork/WordSearchProcessApp/obj/Debug/net9.0/WordSearchProcessApp.csproj.CoreCompileInputs.cache
+/Users/annakulikova/Documents/System Programming/Processes_HomeWork/WordSearchProcessApp/obj/Debug/net9.0/WordSearchProcessApp.sourcelink.json
+/Users/annakulikova/Documents/System Programming/Processes_HomeWork/WordSearchProcessApp/obj/Debug/net9.0/WordSearchProcessApp.dll
+/Users/annakulikova/Documents/System Programming/Processes_HomeWork/WordSearchProcessApp/obj/Debug/net9.0/refint/WordSearchProcessApp.dll
+/Users/annakulikova/Documents/System Programming/Processes_HomeWork/WordSearchProcessApp/obj/Debug/net9.0/WordSearchProcessApp.pdb
+/Users/annakulikova/Documents/System Programming/Processes_HomeWork/WordSearchProcessApp/obj/Debug/net9.0/WordSearchProcessApp.genruntimeconfig.cache
+/Users/annakulikova/Documents/System Programming/Processes_HomeWork/WordSearchProcessApp/obj/Debug/net9.0/ref/WordSearchProcessApp.dll

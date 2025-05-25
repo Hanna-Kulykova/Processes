@@ -1,0 +1,15 @@
+/Users/annakulikova/Documents/System Programming/Processes_HomeWork/CalculatorProcessApp/bin/Debug/net9.0/CalculatorProcessApp
+/Users/annakulikova/Documents/System Programming/Processes_HomeWork/CalculatorProcessApp/bin/Debug/net9.0/CalculatorProcessApp.deps.json
+/Users/annakulikova/Documents/System Programming/Processes_HomeWork/CalculatorProcessApp/bin/Debug/net9.0/CalculatorProcessApp.runtimeconfig.json
+/Users/annakulikova/Documents/System Programming/Processes_HomeWork/CalculatorProcessApp/bin/Debug/net9.0/CalculatorProcessApp.dll
+/Users/annakulikova/Documents/System Programming/Processes_HomeWork/CalculatorProcessApp/bin/Debug/net9.0/CalculatorProcessApp.pdb
+/Users/annakulikova/Documents/System Programming/Processes_HomeWork/CalculatorProcessApp/obj/Debug/net9.0/CalculatorProcessApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annakulikova/Documents/System Programming/Processes_HomeWork/CalculatorProcessApp/obj/Debug/net9.0/CalculatorProcessApp.AssemblyInfoInputs.cache
+/Users/annakulikova/Documents/System Programming/Processes_HomeWork/CalculatorProcessApp/obj/Debug/net9.0/CalculatorProcessApp.AssemblyInfo.cs
+/Users/annakulikova/Documents/System Programming/Processes_HomeWork/CalculatorProcessApp/obj/Debug/net9.0/CalculatorProcessApp.csproj.CoreCompileInputs.cache
+/Users/annakulikova/Documents/System Programming/Processes_HomeWork/CalculatorProcessApp/obj/Debug/net9.0/CalculatorProcessApp.sourcelink.json
+/Users/annakulikova/Documents/System Programming/Processes_HomeWork/CalculatorProcessApp/obj/Debug/net9.0/CalculatorProcessApp.dll
+/Users/annakulikova/Documents/System Programming/Processes_HomeWork/CalculatorProcessApp/obj/Debug/net9.0/refint/CalculatorProcessApp.dll
+/Users/annakulikova/Documents/System Programming/Processes_HomeWork/CalculatorProcessApp/obj/Debug/net9.0/CalculatorProcessApp.pdb
+/Users/annakulikova/Documents/System Programming/Processes_HomeWork/CalculatorProcessApp/obj/Debug/net9.0/CalculatorProcessApp.genruntimeconfig.cache
+/Users/annakulikova/Documents/System Programming/Processes_HomeWork/CalculatorProcessApp/obj/Debug/net9.0/ref/CalculatorProcessApp.dll
