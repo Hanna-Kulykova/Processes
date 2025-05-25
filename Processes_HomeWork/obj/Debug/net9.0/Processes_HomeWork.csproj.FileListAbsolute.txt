@@ -12,3 +12,4 @@
 /Users/annakulikova/Documents/System Programming/Processes_HomeWork/Processes_HomeWork/obj/Debug/net9.0/Processes_HomeWork.pdb
 /Users/annakulikova/Documents/System Programming/Processes_HomeWork/Processes_HomeWork/obj/Debug/net9.0/Processes_HomeWork.genruntimeconfig.cache
 /Users/annakulikova/Documents/System Programming/Processes_HomeWork/Processes_HomeWork/obj/Debug/net9.0/ref/Processes_HomeWork.dll
+/Users/annakulikova/Documents/System Programming/Processes_HomeWork/Processes_HomeWork/obj/Debug/net9.0/Processes_HomeWork.sourcelink.json
