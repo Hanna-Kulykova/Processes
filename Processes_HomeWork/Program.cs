@@ -6,7 +6,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        Task1.Start();
-        Task2.Start();
+        // Task1.Start();
+        // Task2.Start();
+        Task3.Start();
     }
 }
